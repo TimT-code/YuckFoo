@@ -60,5 +60,5 @@ function lyt(vid_number) { //reusable for all - just pass in array index of lyt(
 
 
 window.onload=function(){
-  lyt(vidz(20),'v0');
+  lyt(vidz(23),'v0');
 };
