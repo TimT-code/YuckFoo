@@ -19,7 +19,7 @@ vid[21]={vid_info:'3eUpf4f8LEU?start=06&end=199',dvt:1000,evt:180000};//theme-fa
 vid[22]={vid_info:'QT5OLGYA9a4?start=06&end=264',dvt:1000,evt:264000};//theme-fedor- Enae Volare Mezzo - eRa
 vid[23]={vid_info:'u94qXjChoqY?start=06&end=245',dvt:1000,evt:245000};//theme - requiem for a dream - lotr
 
-vid[24]={vid_info:'34Na4j8AVgA?start=06&end=245',dvt:50000,evt:245000};//theme - The Weeknd - Starboy
+vid[24]={vid_info:'34Na4j8AVgA?start=50&end=245',dvt:5000,evt:20000};//theme - The Weeknd - Starboy
 
 
 function vidz(vid_number){
